@@ -1,8 +1,9 @@
-# Hi 👋, I'm Valdir Souza
+# Hi 👋, I'm Valdir Souza  
 
-🚀 **Software Engineering Student**  
-🇧🇷 Brazil
---
+🚀 **Software Engineering Student | Full-Stack Developer**  
+🇧🇷 Brazil  
+
+---
 
 ## 🌐 Where to find me
 
@@ -23,11 +24,8 @@
   <a href="https://www.youtube.com/@valdirnetto9374">
     <img src="https://img.shields.io/badge/YouTube-Valdir_netto-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+
 </p>
-
----
-
-## 🧠 What I do
 
 ---
 
@@ -59,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Valdirnetto98&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdirnetto98&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Valdirnetto98&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Valdirnetto98&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
